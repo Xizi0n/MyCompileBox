@@ -1,0 +1,2 @@
+usercode/script.sh: line 16: /usercode/inputFile: No such file or directory
+usercode/script.sh: line 33: bc: command not found
